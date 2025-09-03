@@ -12,9 +12,9 @@ Useful links:
 
 \## Formatting Examples:
 
-1\. \*Italic\* text.
+1\. \*Italic\* tekst.
 
-2\. \*\*Bold\*\* Text.
+2\. \*\*Bold\*\* tekst.
 
 
 
