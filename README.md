@@ -12,9 +12,9 @@ Useful links:
 
 \## Formatting Examples:
 
-1\. \*Italic\* tekst.
+1\. \*Italic\* betoning.
 
-2\. \*\*Bold\*\* tekst.
+2\. \*\*Bold\*\* betoning.
 
 
 
